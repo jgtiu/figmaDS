@@ -1,4 +1,6 @@
-# personal-challenge-figma-data-science
+# A Fictional FigJam experiment plan (a project about product data science)
+
+## Executive Summary
 Documenting my own Figma product data science sprint
 
 🚧 Add photo/branding here

@@ -9,6 +9,7 @@ These will be my preliminary sources for this challenge:
 - [Using Causal Inference to Improve the Uber User Experience | Uber Blog](https://www.uber.com/blog/causal-inference-at-uber/)
 
 Other sources that might be helpful (mostly podcast episodes about product data science):
+- [Latest FigJam topics - Figma Community Forum](https://forum.figma.com/c/figjam/45)
 - [The Ultimate Guide To Product Features Analysis | Amplitude](https://amplitude.com/blog/ultimate-guide-product-feature-analysis)
 - [Product data science for Microsoft AI - Sid Sharan - The Data Scientist Show #077 - YouTube](https://www.youtube.com/watch?v=WqHN9jQnO8o)
 - [Product Data Science vs Machine Learning - Pan Wu - The Data Scientist Show #073 - YouTube](https://www.youtube.com/watch?v=_oxRgkDDlQs)
