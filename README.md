@@ -24,7 +24,7 @@ FigJam is an online whiteboard for teams to ideate and brainstorm together. The 
 **Skills to highlight in this challenge:**
 - SQL
 - Python
-- Hive, Redshift, Presto, pr Snowflake
+- Hive, Redshift, Presto, or Snowflake
 - Applying statistical methods to experiment design
 
 **Source:** [Data Scientist, Product | Figma | LinkedIn](https://www.linkedin.com/jobs/view/3774909326/)
