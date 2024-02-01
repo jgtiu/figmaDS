@@ -19,13 +19,16 @@ Documenting my own Figma product data science sprint
 
 **About FigJam:**
 
-FigJam is an online whiteboard for teams to ideate and brainstorm together. The ideal candidate for this team will have exceptional problem solving and storytelling ability,...
+FigJam is an online whiteboard for teams to ideate and brainstorm together. The ideal candidate for this team will have exceptional problem solving and storytelling ability, a strong sense of ownership, excellent stakeholder management, and a track record of using data to influence product teams and help them achieve their goals.
 
 **Skills to highlight in this challenge:**
-- SQL
-- Python
-- Hive, Redshift, Presto, or Snowflake
-- Applying statistical methods to experiment design
+- 3+ years relevant work experience supporting a Product offering by way of data insights
+- Fluency in SQL
+- Proficiency in Python, R or similar scripting language
+- Experience in distributed data processing systems (Hive, Redshift, Presto, Snowflake, etc)
+- Prior experience in applying statistical methods to experiment design
+- A proven track record of excellent judgment and creative problem solving skills on short and long term projects
+- Experience communicating and working across functions to proactively drive solutions
 
 **Source:** [Data Scientist, Product | Figma | LinkedIn](https://www.linkedin.com/jobs/view/3774909326/)
 
